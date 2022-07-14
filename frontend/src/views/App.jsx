@@ -20,7 +20,7 @@ export default function App() {
         )
       }
       <Link to={"/prueba"}>
-        <Button >prueba</Button>
+        <Button >Ruta prueba</Button>
       </Link>
     </>
   )
